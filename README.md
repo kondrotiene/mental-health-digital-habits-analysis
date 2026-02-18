@@ -3,9 +3,10 @@ Statistical analysis of PHQ-9 and GAD-7 scores in relation to screen time and sl
 
 **Project Overview**  
 This project analyzes the relationship between social media usage and mental health outcomes, specifically focusing on Anxiety (GAD-7) and Depression (PHQ-9). Using a dataset of 8,000 users, the goal was to identify whether the platform, the content, or the behavioral habits (like sleep and screen time) have the most significant impact on psychological well-being.  
-
-**Key Findings**  
+ 
 ![Correlation_Matrix](images/correlation_matrix.png)
+
+**Key Findings**   
 My analysis reached several important conclusions:  
 •	Sleep: A strong negative correlation (-0.68) was found between Daily Screen Time and Sleep Duration. This suggests that increased digital consumption directly displaces rest, which is a critical factor for mental recovery.  
 •	Predictors of Depression (PHQ-9): Late Night Usage (0.66) and Daily Screen Time (0.59) showed the strongest positive correlations with depression scores. This indicates that nighttime engagement with devices is a primary risk factor for depressive symptoms.  
@@ -49,7 +50,7 @@ My analysis reached several important conclusions:
 
 ![Screen_Time_Impact](images/Screen_Time_Impact.png)
 
-**Recommendations**
+**Recommendations**  
 Based on the data, I propose the following "Digital Hygiene" steps:  
 •	Digital Sunset: Stop screen usage 60-90 minutes before sleep to protect mental health.  
 •	Time Management: Limit daily screen time to prevent the displacement of biological sleep.  
